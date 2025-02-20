@@ -12,7 +12,6 @@ NrunsH = 5000;           # MC runs for simulations
 Delta = c(0.1, 0.2, 0.3, 0.5, 1, 2, 3, 4)
 NDelta = length(Delta);
 
-setwd("C:/Users/baron/Documents/Research/Malov/Spitzer formula paper/R")
 
 ### Function estimating the threshold h as the quantile from the null dist of Wmax
 thresholds = function(n,delta,alpha,nruns){
