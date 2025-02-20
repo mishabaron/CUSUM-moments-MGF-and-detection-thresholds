@@ -5,7 +5,6 @@
 # Then Y = LLR = Normal( -delta^2/2, delta ) under F 
 #  and Y = LLR = Normal( +delta^2/2, delta ) under G 
 
-setwd("C:\\Users\\baron\\Documents\\Research\\Malov\\Spitzer formula paper\\R")
 delta = 0.1;   # Choose some delta
 N = 1000;      # We'll calculate the first N probabilities
 n = 1:N;
