@@ -7,7 +7,6 @@
 
 Lag = 1;      # 0 = EexpW = EU, 1 = D = 1st increments, 2 = D2 = double differences, etc.
 
-setwd("C:\\Users\\baron\\Documents\\Research\\Malov\\Spitzer formula paper\\R")
 
 N = 20; d = 0:N; 
  DELTA = c(0.1, 0.3, 0.5, 1.0, 2.0, 3.0); 
