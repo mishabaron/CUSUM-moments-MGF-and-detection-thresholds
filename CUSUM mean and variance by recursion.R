@@ -5,8 +5,6 @@
 # Then Y = LLR = Normal( -delta^2/2, delta ) under F 
 #  and Y = LLR = Normal( +delta^2/2, delta ) under G 
 
-setwd("C:\\Users\\baron\\Documents\\Research\\Malov\\Spitzer formula paper\\R")
-
 
 N = 1000; d = 0:N; 
 DELTA = c(0.1, 0.5, 1.0, 2.0, 3.0, 4.0, 5.0); 
