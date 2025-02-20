@@ -5,8 +5,6 @@
 # Then Y = LLR = Normal( -delta^2/2, delta ) under F 
 #  and Y = LLR = Normal( +delta^2/2, delta ) under G 
 
-setwd("C:\\Users\\baron\\Documents\\Research\\Malov\\Spitzer formula paper\\R")
-
 # Compare exact CUSUM exponential moments with our uniform upper bound of (d+1) 
 # and delta-dependent upper bounds 1 + d*P(Y < 0)
 
